@@ -1,0 +1,13 @@
+#posts-index img {
+  width: 300px;
+}
+
+html {
+  scroll-behavior: smooth;
+  text-align: center;
+  background-image: url(https://garden.spoonflower.com/c/6232403/p/f/m/GHL1vROw1nGCxrTnM6k6Q3C7j4ajylVGDCufc0aeNXPXf2BQ-vTOOXwn/Husky%20dog%20silhouette%20med%20green.jpg);
+}
+
+content {
+  display: grid;
+}
